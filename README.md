@@ -1,6 +1,7 @@
 # Weather App
 
 You will be creating an app to get the weather!
+
 ![batman](https://media.giphy.com/media/za5xikuRr0OzK/giphy.gif)
 
 ## Requirements
@@ -9,7 +10,8 @@ You will be creating an app to get the weather!
 Use a prompt to get the user's zip code. Use the `Zippopotamus` API to get the zip code's state and city. 
 
 For example, you would provide `Zippopotamus` with the data `90210` to get data for Beverly Hills. You can see the service provides you with the name of the state and city. 
-![zippo](imgs/zippo.png)
+
+<img src="imgs/zippo.png" width="400">
 
 You should display the state and city data on the webpage like this:
 ![zippo](imgs/part1.png)
@@ -19,7 +21,9 @@ You should display the state and city data on the webpage like this:
 Use the `longitude` and `latitude` you get from `Zippopotamus` to get weather data from the `7Timer` API. 
 
 For example, with the data `-118.4` and `34.1` as longitude and latitude respectively, `7Timer` will provide all the weather data for Beverly Hills.
-![zippo](imgs/7timer.png)
+
+<img src="imgs/7timer.png" width="400">
+
 
 Use the weather information to display the current temperature like this:
 ![part 2](imgs/part2.png)
