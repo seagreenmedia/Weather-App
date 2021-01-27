@@ -40,4 +40,3 @@ Have the browser collect the user's zip code from their location so that they do
 Push your code to GitHub and create a Pull Request
 
 **Happy Hacking**
-![hh](https://media.giphy.com/media/YQitE4YNQNahy/giphy.gif)
